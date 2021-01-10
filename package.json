@@ -11,6 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "live-server": "^1.2.1",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirusOfficial/tailwind-css-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThirusOfficial/tailwind-css-starter/issues"
+  },
+  "homepage": "https://github.com/ThirusOfficial/tailwind-css-starter#readme"
 }
